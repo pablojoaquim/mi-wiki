@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmi_wiki=self.webpackChunkmi_wiki||[]).push([[7992],{2495:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/mi-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
