@@ -1,6 +1,5 @@
 # Mi primera página
 
-Bienvenido a mi wiki 🚀
+Welcome to my Wiki page! 🚀
 
-Aquí voy a ir documentando lo que aprendo sobre C, Godot, IoT, etc.
-Serà esta la Next?
+I want to have a really nice website
