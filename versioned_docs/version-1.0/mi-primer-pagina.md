@@ -3,4 +3,3 @@
 Bienvenido a mi wiki 🚀
 
 Aquí voy a ir documentando lo que aprendo sobre C, Godot, IoT, etc.
-Serà esta la Next?
